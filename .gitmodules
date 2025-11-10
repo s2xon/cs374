@@ -1,3 +1,9 @@
 [submodule "assignment-1-movies-s2xon"]
 	path = assignment-1-movies-s2xon
 	url = https://github.com/CS-374-F25/assignment-1-movies-s2xon
+[submodule "assignment-2-files-and-directories-s2xon"]
+	path = assignment-2-files-and-directories-s2xon
+	url = git@github.com:CS-374-F25/assignment-2-files-and-directories-s2xon.git
+[submodule "assignment-3-smallsh-s2xon"]
+	path = assignment-3-smallsh-s2xon
+	url = git@github.com:CS-374-F25/assignment-3-smallsh-s2xon.git
